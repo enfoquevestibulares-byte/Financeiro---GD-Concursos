@@ -1,0 +1,6 @@
+{
+  "name": "Gustavo Dias Concursos — Gestão Financeira",
+  "description": "Controle financeiro da mentoria de concursos públicos: vendas, repasses a tutores, materiais, despesas e leitura de comprovantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
